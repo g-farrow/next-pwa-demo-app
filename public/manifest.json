@@ -1,0 +1,10 @@
+{
+  "name": "Next PWA Demo App",
+  "short_name": "Demo",
+  "theme_color": "#115571",
+  "background_color": "#000000",
+  "display": "standalone",
+  "orientation": "portrait",
+  "scope": "/",
+  "start_url": "/"
+}
